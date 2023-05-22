@@ -1,2 +1,2 @@
 # cv
-http://yakubowski.pl/
+https://dev.yakubowski.pl/
